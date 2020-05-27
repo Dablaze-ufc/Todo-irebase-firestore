@@ -1,0 +1,2 @@
+rootProject.name='Todo firebase firestore'
+include ':app'
